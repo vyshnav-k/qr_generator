@@ -1,0 +1,16 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qr-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "csv-parser": "^3.0.0",
+    "qrcode": "^1.4.4"
+  }
+}
